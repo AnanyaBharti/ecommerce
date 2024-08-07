@@ -10,27 +10,27 @@ import { useNavigate } from "react-router-dom";
 const category = [
   {
     image: "https://cdn-icons-png.flaticon.com/256/4359/4359963.png",
-    name: "fashion",
+    name: "Men",
   },
   {
     image: "https://cdn-icons-png.flaticon.com/256/11833/11833323.png",
-    name: "shirt",
+    name: "Momen",
   },
   {
     image: "https://cdn-icons-png.flaticon.com/256/8174/8174424.png",
-    name: "jacket",
+    name: "Kids",
   },
   {
     image: "https://cdn-icons-png.flaticon.com/256/7648/7648246.png",
-    name: "mobile",
+    name: "Home&Living",
   },
   {
     image: "https://cdn-icons-png.flaticon.com/256/12142/12142416.png",
-    name: "laptop",
+    name: "Studio",
   },
   {
     image: "https://cdn-icons-png.flaticon.com/256/10686/10686553.png",
-    name: "shoes",
+    name: "Co-Creation",
   },
   {
     image: "https://cdn-icons-png.flaticon.com/256/12114/12114279.png",
